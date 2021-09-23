@@ -1,23 +1,36 @@
-# anaaccilio04
-ABOUT ME:👋
 
 
 
-                                      HI,I'M ANA MARIA ACCILIO ✨
-*Me llamo Ana Maria Accilio.
-Soy de la carrera de ciencia de la computación, actualmente estoy cursando el primer ciclo.
-Tengo 17 años de edad.*
 
+##                                                              HI, I'M ANA MARIA ACCILIO ✨
 
-- 🏀 I like to play soccer.
-- 📚 I like to read scientific articles.
-- 🌱 I currently belong to the EWB organization.
+#### ABOUT ME:👋🏻
+                                      
+*↦ My name is Ana Maria Accilio Villanueva.*
 
-*Contact me:*
-ana.accilio@utec.edu.pe
+*↦ Computer Science student at **(UTEC)**.* 📓
 
+*↦ I am currently in the **1st** cycle of the degree.*
 
+*↦ I'm **17** years old.*
 
+*↦ I currently belong to the **EWB** organization.* 🌱
+
+### HOBBY:
+
+- 🏀 Play basketball.
+- 📑 Read scientific articles.
+- 👩‍💻 Practice **Python** programming.
+
+#### CONTACT ME:
+
+» ana.accilio@utec.edu.pe
+
+### SOCIAL NETWORKS: 
+
+» https://www.instagram.com/ana_maria_accilio/?hl=es
+
+» https://www.linkedin.com/in/ana-mar%C3%ADa-accilio-villanueva-412153217/
 
 
 
