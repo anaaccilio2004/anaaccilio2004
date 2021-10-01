@@ -25,6 +25,8 @@
 - 📑 Read scientific articles.
 - 👩‍💻 Practice **Python** programming.
 
+![0_hsuKqnJLb-Fkid1k](https://user-images.githubusercontent.com/91237434/135658296-a0486672-40b9-4fc7-8d90-d718c8dbbd90.gif)
+
 #### CONTACT ME:
 
 » ana.accilio@utec.edu.pe
